@@ -1,0 +1,2 @@
+# artificial-intelligence-technology-textbook_20230421_2
+人工知能技術の教科書_20230420.ipynb
